@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the login form component, would you like a classic design or a modern popup modal?\", \"option1\": \"Classic design below the footer\", \"option2\": \"Modern popup modal that appears on click\"}, {\"question 2\": \"What information would you like to gather in the login form? (Choose the most crucial fields for your application)\", \"option1\": \"Username and Password only\", \"option2\": \"Username, Password, and remember me option\"}], \"input_token_count\": 417, \"output_token_count\": 108, \"time_taken\": \"0:00:04.372341\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065801",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a simple login form component below the footer",
         "message_id": "guest16022024054052",
