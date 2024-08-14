@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to appear on every page or only on specific pages like the homepage?\", \"option1\": \"On every page\", \"option2\": \"Only on specific pages\"}, {\"question 2\": \"Do you prefer a minimalistic design for the login form or a more detailed form with descriptive texts?\", \"option1\": \"Minimalistic design\", \"option2\": \"Detailed form with descriptive texts\"}], \"input_token_count\": 550, \"output_token_count\": 99, \"time_taken\": \"0:00:08.405576\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024153112",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a simple login form component below the footer",
         "message_id": "guest16022024054052",
