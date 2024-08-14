@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to be directly visible to users or should it appear as a modal/pop-up when a specific button is clicked?\", \"option1\": \"Directly visible below the footer\", \"option2\": \"Appear as a modal/pop-up\"}, {\"question 2\": \"For the login form, do you have a preference for the fields users need to complete? Typically, a username and password are standard, but we can add email, remember me checkbox, or others.\", \"option1\": \"Standard username and password\", \"option2\": \"Include email, remember me checkbox, and other fields\"}], \"input_token_count\": 425, \"output_token_count\": 138, \"time_taken\": \"0:00:05.484015\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065727",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065719",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate social media login options (e.g., Google, Facebook) for enhanced user convenience\", \"checked\": true}, {\"feature\": \"Add 'Forgot Password?' link to assist users in account recovery\", \"checked\": true}, {\"feature\": \"Implement Two-Factor Authentication for increased security\", \"checked\": false}, {\"feature\": \"Design a 'Remember Me' checkbox for user's ease of access\", \"checked\": true}, {\"feature\": \"Include a 'Sign up' link for new users\", \"checked\": true}, {\"feature\": \"Provide visual feedback when user inputs are invalid (e.g., wrong password format)\", \"checked\": false}], \"input_token_count\": 379, \"output_token_count\": 137, \"time_taken\": \"0:00:06.113112\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065156",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to be always visible at the bottom of the screen or should it appear only on specific pages?\", \"option1\": \"Always visible\", \"option2\": \"Only on specific pages\"}, {\"question 2\": \"Should the login form redirect users after successful login, and if so, to which page?\", \"option1\": \"Yes, redirect to the home page\", \"option2\": \"Yes, redirect to a user profile page\"}], \"input_token_count\": 425, \"output_token_count\": 108, \"time_taken\": \"0:00:04.583056\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065155",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065148",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'New Products' section in the navbar for direct access to the latest items\", \"checked\": true}, {\"feature\": \"Integrate social media links in the footer for increased user engagement\", \"checked\": false}, {\"feature\": \"Implement a 'Favorites' feature to allow users to save products they are interested in\", \"checked\": true}, {\"feature\": \"Introduce a user profile page accessible post-login for personalized product recommendations\", \"checked\": false}, {\"feature\": \"Add a search bar at the top of the home page for quick product searches\", \"checked\": true}, {\"feature\": \"Incorporate user reviews and ratings on product pages for better buying decisions\", \"checked\": false}], \"input_token_count\": 326, \"output_token_count\": 160, \"time_taken\": \"0:00:06.819748\"}",
         "message_id": "guest16022024054052",
@@ -45,54 +90,9 @@
         "div_action": null
     },
     {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "message_id": "guest16022024054052",
-        "timestamp": "14082024064454",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "message_id": "guest16022024054052",
-        "timestamp": "14082024064031",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "message_id": "guest16022024054052",
-        "timestamp": "14082024063813",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "message_id": "guest16022024054052",
-        "timestamp": "14082024063646",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "message_id": "mymessageid",
-        "timestamp": "13082024092836",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the AI assistant requested additional details about the user's project. The user responded by specifying the need to add a navigation bar that includes the fields \"home,\" \"about,\" and \"contact.\" The AI then reiterated its request for more information about the project.",
-        "timestamp": "14082024065100",
+        "content": "In the conversation, the User repeatedly requested the addition of a simple login form component below the footer. The AI responded by asking the User to provide more details about the project, seeking clarification. Additionally, the User asked for the inclusion of a navbar featuring the fields home, about, and contact. The AI reiterated its request for more information about the project.",
+        "timestamp": "14082024065727",
         "message_id": "guest16022024054052"
     }
 ]
