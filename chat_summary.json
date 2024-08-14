@@ -1,64 +1,98 @@
 [
     {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065051",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024064905",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024064655",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024064454",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024064031",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024063813",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024063646",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723541306",
-        "component_file_name": "",
-        "div_id": ""
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "13082024092836",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "13082024092836",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
+        "message_id": "mymessageid",
         "timestamp": "13082024092836",
-        "message_id": "mymessageid"
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
     },
     {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "timestamp": "13082024092836",
-        "message_id": "mymessageid"
-    },
-    {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "timestamp": "13082024092836",
-        "message_id": "mymessageid"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024063646",
-        "message_id": "guest16022024054052"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024063813",
-        "message_id": "guest16022024054052"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024064031",
-        "message_id": "guest16022024054052"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024064454",
-        "message_id": "guest16022024054052"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024064655",
-        "message_id": "guest16022024054052"
-    },
-    {
-        "role": "user",
-        "content": "add a simple login form component below the footer",
-        "timestamp": "14082024064905",
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "14082024065051",
         "message_id": "guest16022024054052"
     }
 ]
