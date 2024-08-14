@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to always be visible at the bottom, or should it become visible only when the user scrolls to the footer?\", \"option1\": \"Always visible\", \"option2\": \"Visible only when scrolling to the footer\"}, {\"question 2\": \"For the login form layout, do you prefer a more traditional design with aligned fields, or a modern design with floating labels?\", \"option1\": \"Traditional design with aligned fields\", \"option2\": \"Modern design with floating labels\"}], \"input_token_count\": 546, \"output_token_count\": 116, \"time_taken\": \"0:00:13.529210\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024153202",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a simple login form component below the footer",
         "message_id": "guest16022024054052",
