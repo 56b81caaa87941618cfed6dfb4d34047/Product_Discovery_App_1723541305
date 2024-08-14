@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "add a navbar with the fields Home, About and Contact Us"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a navbar with the fields home, about and contact\nUser: add a simple login form component below the footer\nUser: add a simple login form component below the footer\nUser: add a simple login form component below the footer\nUser: add a simple login form component below the footer\nUser: add a simple login form component below the footer\nUser: add a simple login form component below the footer\nThis is the user's current request of changes to be made: add a simple login form component below the footer"
     }
 ]
