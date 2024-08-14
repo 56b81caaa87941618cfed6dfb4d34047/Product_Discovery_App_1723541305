@@ -168,7 +168,6 @@ Vue.component("simple_cta_component_1723541306", {
             </div>
         </form>
     </div>
-
     <div class="flex-1 bg-gray-100 p-8 rounded-lg shadow-lg">
         <div class="mb-4">
             <h2 class="text-2xl font-bold">Login</h2>
