@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the login form below the footer, do you want it to be always visible or only appear upon a specific user action, like clicking a 'Login' button?\", \"option1\": \"Always visible\", \"option2\": \"Visible upon clicking a 'Login' button\"}, {\"question 2\": \"Should the login form include a 'Remember me' option for user convenience?\", \"option1\": \"Yes, include a 'Remember me' option\", \"option2\": \"No, do not include a 'Remember me' option\"}], \"input_token_count\": 372, \"output_token_count\": 122, \"time_taken\": \"0:00:05.547093\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065059",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a simple login form component below the footer",
         "message_id": "guest16022024054052",
