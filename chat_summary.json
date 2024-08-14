@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'New Products' section in the navbar for direct access to the latest items\", \"checked\": true}, {\"feature\": \"Integrate social media links in the footer for increased user engagement\", \"checked\": false}, {\"feature\": \"Implement a 'Favorites' feature to allow users to save products they are interested in\", \"checked\": true}, {\"feature\": \"Introduce a user profile page accessible post-login for personalized product recommendations\", \"checked\": false}, {\"feature\": \"Add a search bar at the top of the home page for quick product searches\", \"checked\": true}, {\"feature\": \"Incorporate user reviews and ratings on product pages for better buying decisions\", \"checked\": false}], \"input_token_count\": 326, \"output_token_count\": 160, \"time_taken\": \"0:00:06.819748\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065100",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the login form below the footer, do you want it to be always visible or only appear upon a specific user action, like clicking a 'Login' button?\", \"option1\": \"Always visible\", \"option2\": \"Visible upon clicking a 'Login' button\"}, {\"question 2\": \"Should the login form include a 'Remember me' option for user convenience?\", \"option1\": \"Yes, include a 'Remember me' option\", \"option2\": \"No, do not include a 'Remember me' option\"}], \"input_token_count\": 372, \"output_token_count\": 122, \"time_taken\": \"0:00:05.547093\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065059",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a simple login form component below the footer",
         "message_id": "guest16022024054052",
@@ -72,27 +90,9 @@
         "div_action": null
     },
     {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "message_id": "mymessageid",
-        "timestamp": "13082024092836",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the fields home, about and contact",
-        "message_id": "mymessageid",
-        "timestamp": "13082024092836",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "14082024065051",
+        "content": "In the conversation, the AI assistant requested additional details about the user's project. The user responded by specifying the need to add a navigation bar that includes the fields \"home,\" \"about,\" and \"contact.\" The AI then reiterated its request for more information about the project.",
+        "timestamp": "14082024065100",
         "message_id": "guest16022024054052"
     }
 ]
