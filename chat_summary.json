@@ -24,5 +24,11 @@
         "content": "can you describe the project a bit more?",
         "timestamp": "13082024092836",
         "message_id": "mymessageid"
+    },
+    {
+        "role": "user",
+        "content": "add a simple login form component below the footer",
+        "timestamp": "14082024063646",
+        "message_id": "guest16022024054052"
     }
 ]
