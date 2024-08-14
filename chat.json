@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate a 'Forgot Password?' link in the login form for user convenience\", \"checked\": true}, {\"feature\": \"Add a CAPTCHA verification to the login form for added security\", \"checked\": false}, {\"feature\": \"Implement social media login options (e.g., Google, Facebook) for easy access\", \"checked\": false}, {\"feature\": \"Include a 'Keep me logged in' checkbox for user convenience\", \"checked\": true}, {\"feature\": \"Incorporate form validation feedback messages (e.g., 'Invalid email or password') for clarity\", \"checked\": true}, {\"feature\": \"Include a sign-up link for new users directly in the login form\", \"checked\": false}], \"input_token_count\": 504, \"output_token_count\": 160, \"time_taken\": \"0:00:26.609032\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024153131",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to appear on every page or only on specific pages like the homepage?\", \"option1\": \"On every page\", \"option2\": \"Only on specific pages\"}, {\"question 2\": \"Do you prefer a minimalistic design for the login form or a more detailed form with descriptive texts?\", \"option1\": \"Minimalistic design\", \"option2\": \"Detailed form with descriptive texts\"}], \"input_token_count\": 550, \"output_token_count\": 99, \"time_taken\": \"0:00:08.405576\"}",
         "message_id": "guest16022024054052",
