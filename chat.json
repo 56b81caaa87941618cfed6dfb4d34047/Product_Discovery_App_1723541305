@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate social media login options (e.g., Google, Facebook) for enhanced user convenience\", \"checked\": true}, {\"feature\": \"Add 'Forgot Password?' link to assist users in account recovery\", \"checked\": true}, {\"feature\": \"Implement Two-Factor Authentication for increased security\", \"checked\": false}, {\"feature\": \"Design a 'Remember Me' checkbox for user's ease of access\", \"checked\": true}, {\"feature\": \"Include a 'Sign up' link for new users\", \"checked\": true}, {\"feature\": \"Provide visual feedback when user inputs are invalid (e.g., wrong password format)\", \"checked\": false}], \"input_token_count\": 379, \"output_token_count\": 137, \"time_taken\": \"0:00:06.113112\"}",
+        "message_id": "guest16022024054052",
+        "timestamp": "14082024065156",
+        "component_file_name": "simple_cta_component_1723541306",
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the login form to be always visible at the bottom of the screen or should it appear only on specific pages?\", \"option1\": \"Always visible\", \"option2\": \"Only on specific pages\"}, {\"question 2\": \"Should the login form redirect users after successful login, and if so, to which page?\", \"option1\": \"Yes, redirect to the home page\", \"option2\": \"Yes, redirect to a user profile page\"}], \"input_token_count\": 425, \"output_token_count\": 108, \"time_taken\": \"0:00:04.583056\"}",
         "message_id": "guest16022024054052",
